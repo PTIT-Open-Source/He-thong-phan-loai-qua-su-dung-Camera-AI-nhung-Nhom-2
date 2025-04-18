@@ -1,5 +1,5 @@
 # 🥭 HỆ THỐNG PHÂN LOẠI QUẢ SỬ DỤNG CAMERA AI NHÚNG
-
+# Người làm chính: Kiều Bùi Đức Mạnh – B20DCDT129
 ## 🎯 Mục tiêu dự án
 
 Dự án xây dựng **hệ thống nhận dạng và phân loại quả** theo thời gian thực sử dụng **camera AI nhúng**. Hệ thống sẽ nhận diện và đếm số lượng các loại quả, hiển thị kết quả trực tiếp qua **OpenGL**, đồng thời ghi nhận số liệu vào **file Excel** và gửi lên **máy chủ web** qua giao thức **MQTT**.
@@ -101,7 +101,7 @@ Hệ thống giúp **phân loại quả thông minh** với độ chính xác ca
 
 ### 📚 Tài liệu 
 
-- [Tài liệu](https://docs.google.com/document/d/1oRQE6O6N3B5SG7hbl-3hrTSynrA_IhqSm4RVP9amA4k/edit?tab=t.0)
+- [Tài liệu báo cáo](https://docs.google.com/document/d/1oRQE6O6N3B5SG7hbl-3hrTSynrA_IhqSm4RVP9amA4k/edit?tab=t.0)
 
 
 
