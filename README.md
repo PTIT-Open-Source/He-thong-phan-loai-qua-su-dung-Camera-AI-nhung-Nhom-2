@@ -58,7 +58,7 @@ Hệ thống giúp **phân loại quả thông minh** với độ chính xác ca
 
 ## 📂 Các thư mục và tệp trong dự án
 
-- `/src`: Mã nguồn của hệ thống
+- `/main`: Mã nguồn của hệ thống
 - `/models`: Tệp mô hình YOLOv8 đã huấn luyện
 - `/logs`: Lưu trữ các file log và kết quả tracking
 - `/excel`: Lưu trữ các file Excel chứa số liệu đếm quả
