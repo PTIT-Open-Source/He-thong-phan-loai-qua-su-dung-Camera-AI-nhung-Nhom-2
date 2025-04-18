@@ -94,9 +94,14 @@ Hệ thống giúp **phân loại quả thông minh** với độ chính xác ca
    python /He-thong-phan-loai-qua-su-dung-Camera-AI-nhung-Nhom-2/main/main.py
    python /He-thong-phan-loai-qua-su-dung-Camera-AI-nhung-Nhom-2/backend/web.py
 
-## 📂 Kiểm thử mô hình 
+## 🛠️ Kiểm thử mô hình 
 
 ![Fruit Classification System](https://github.com/PTIT-Open-Source/He-thong-phan-loai-qua-su-dung-Camera-AI-nhung-Nhom-2/blob/main/testing/val_batch2_labels.jpg)
 ![Fruit Classification System](https://github.com/PTIT-Open-Source/He-thong-phan-loai-qua-su-dung-Camera-AI-nhung-Nhom-2/blob/main/testing/confusion_matrix.png)
+
+### 📚 Tài liệu 
+
+- [Tài liệu](https://docs.google.com/document/d/1oRQE6O6N3B5SG7hbl-3hrTSynrA_IhqSm4RVP9amA4k/edit?tab=t.0)
+
 
 
