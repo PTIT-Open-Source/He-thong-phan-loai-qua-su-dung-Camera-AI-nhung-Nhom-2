@@ -62,10 +62,10 @@ Hệ thống giúp **phân loại quả thông minh** với độ chính xác ca
 - `/models`: Tệp mô hình YOLOv8 đã huấn luyện
 - `/logs`: Lưu trữ các file log và kết quả tracking
 - `/excel`: Lưu trữ các file Excel chứa số liệu đếm quả
-- `/backend: Chứa mã nguồn của server Flask, bao gồm việc tiếp nhận và xử lý các file Excel, log từ thiết bị, và cung cấp API cho giao diện web.
-- `/frontend: Chứa mã nguồn của giao diện web được phát triển bằng Flask, hiển thị danh sách các file đã được upload, cho phép người dùng tải về và xem thống kê.
-- `/testing: Thư mục dùng để chứa các tệp và mã nguồn dùng cho việc kiểm thử hệ thống, đảm bảo tất cả các tính năng hoạt động đúng.
-- `/library: Thư viện bổ sung và các công cụ hỗ trợ khác mà hệ thống cần.
+- `/backend`: Chứa mã nguồn của server Flask, bao gồm việc tiếp nhận và xử lý các file Excel, log từ thiết bị, và cung cấp API cho giao diện web.
+- `/frontend`: Chứa mã nguồn của giao diện web được phát triển bằng Flask, hiển thị danh sách các file đã được upload, cho phép người dùng tải về và xem thống kê.
+- `/testing`: Thư mục dùng để chứa các tệp và mã nguồn dùng cho việc kiểm thử hệ thống, đảm bảo tất cả các tính năng hoạt động đúng.
+- `/library`: Thư viện bổ sung và các công cụ hỗ trợ khác mà hệ thống cần.
 ---
 
 ## 📝 Cài đặt
